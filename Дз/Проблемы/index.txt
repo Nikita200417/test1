@@ -1,0 +1,66 @@
+    Error: The cellpadding attribute on the table element is obsolete. Use CSS instead.
+
+    From line 56, column 14; to line 56, column 63
+
+             	<table border="1" cellpadding="5" cellspacing="1">?  
+Решение:
+Убрал cellpadding.   
+
+    Error: The cellspacing attribute on the table element is obsolete. Use CSS instead.
+Решение:
+Убрал cellspacing.   
+
+    From line 56, column 14; to line 56, column 63
+
+             	<table border="1" cellpadding="5" cellspacing="1">?     
+
+    Warning: The border attribute on the table element is presentational markup. Consider using CSS instead. For example: table, td, th { border: 1px solid gray }
+
+    From line 56, column 14; to line 56, column 63
+
+             	<table border="1" cellpadding="5" cellspacing="1">?     
+
+    Warning: A table row was 5 columns wide, which is less than the column count established by the first row (6).
+
+    From line 70, column 58; to line 71, column 23
+
+    еться</td>?                  </tr>?     
+
+    Warning: A table row was 5 columns wide, which is less than the column count established by the first row (6).
+
+    From line 75, column 37; to line 76, column 23
+
+    месяц</td>?                  </tr>?     
+
+    Warning: A table row was 5 columns wide, which is less than the column count established by the first row (6).
+
+    From line 81, column 60; to line 82, column 23
+
+    авать</td>?                  </tr>?     
+
+    Warning: A table row was 5 columns wide, which is less than the column count established by the first row (6).
+
+    From line 86, column 40; to line 87, column 23
+
+    есяца</td>?                  </tr>?     
+
+    Warning: A table row was 5 columns wide, which is less than the column count established by the first row (6).
+
+    From line 91, column 37; to line 92, column 23
+
+    месяц</td>?                  </tr>?     
+
+    Error: Table column 6 established by element th has no cells beginning in it.
+
+    From line 62, column 40; to line 63, column 37
+
+    льтат</th>?                     <th colspan="2">Итоги<
+
+Решение:
+НЕ ЗНАЮ КАК ИСПРАВИТЬ!!!
+
+    Warning: Section lacks heading. Consider using h2-h6 elements to add identifying headings to all sections.
+
+    From line 55, column 13; to line 55, column 34
+
+              <section id="#carier">?     

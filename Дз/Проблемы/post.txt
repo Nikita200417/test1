@@ -1,0 +1,37 @@
+1)Warning: This document appears to be written in Russian but the html start tag has lang="en". Consider using lang="ru" (or variant) instead.
+
+From line 1, column 16; to line 2, column 16
+
+TYPE html>?<html lang="en">? <hea
+
+For further guidance, consult Declaring the overall language of a page and Choosing language tags.
+
+If the HTML checker has misidentified the language of this document, please file an issue report or send e-mail to report the problem.
+
+Решение:
+Поменял en на ru
+
+2)Error: Attribute alt not allowed on element video at this point.
+
+From line 28, column 10; to line 28, column 83
+
+?         <video src="img/construction.wmv" alt="Видео пример" title="Видео пример">Древни
+
+Attributes for element video:
+    Global attributes 
+    src - Address of the resource 
+    crossorigin - How the element handles crossorigin requests 
+    poster - Poster frame to show prior to video playback 
+    preload - Hints how much buffering the media resource will likely need 
+    autoplay - Hint that the media resource can be started automatically when the page is loaded 
+    loop - Whether to loop the media resource 
+    muted - Whether to mute the media resource by default 
+    controls - Show user agent controls 
+    width - Horizontal dimension 
+    height - Vertical dimension 
+Решение:
+изменил код <video width="400" height="300" controls="controls" poster="video/construction.jpg">
+            <source src="video/construction.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'>
+            Элемент video не поддерживается вашим браузером. 
+            <a href="video/construction.mp4">Скачайте видео</a>.
+            </video>

@@ -1,0 +1,168 @@
+    Error: The character encoding was not declared. Proceeding using windows-1252.
+
+    Error: Unmappable byte sequence: 81.
+
+    At line 10, column 60
+
+    Error: Unmappable byte sequence: 8f.
+
+    At line 11, column 48
+
+    Error: Unmappable byte sequence: 8f.
+
+    At line 12, column 57
+
+    Error: Unmappable byte sequence: 8f.
+
+    At line 24, column 47
+
+    Error: Unmappable byte sequence: 8f.
+
+    At line 24, column 64
+
+    Error: Unmappable byte sequence: 90.
+
+    At line 24, column 70
+
+    Warning: Section lacks heading. Consider using h2-h6 elements to add identifying headings to all sections.
+
+    From line 20, column 8; to line 20, column 16
+
+    v>?	      <section>?     
+
+    Error: The cellpadding attribute on the table element is obsolete. Use CSS instead.
+
+    From line 31, column 14; to line 31, column 63
+
+             	<table border="1" cellpadding="5" cellspacing="1">?     
+
+    Error: The cellspacing attribute on the table element is obsolete. Use CSS instead.
+
+    From line 31, column 14; to line 31, column 63
+
+             	<table border="1" cellpadding="5" cellspacing="1">?     
+
+    Warning: The border attribute on the table element is presentational markup. Consider using CSS instead. For example: table, td, th { border: 1px solid gray }
+
+    From line 31, column 14; to line 31, column 63
+
+             	<table border="1" cellpadding="5" cellspacing="1">?     
+
+    Error: Unmappable byte sequence: 8f.
+
+    At line 35, column 31
+
+    Error: Unmappable byte sequence: 8f.
+
+    At line 36, column 35
+
+    Error: Attribute colspen not allowed on element th at this point.
+
+    From line 37, column 49; to line 38, column 37
+
+    В?∞NВ</th>?                     <th colspen="2">??NВ??
+
+    Attributes for element th:
+        Global attributes 
+        colspan - Number of columns that the cell is to span 
+        rowspan - Number of rows that the cell is to span 
+        headers - The headers for this cell 
+        scope - Specifies which cells the header cell applies to 
+        abbr - Alternative label to use for the header cell when referencing the cell in other contexts 
+        columnheader or rowheader role (default - do not set), Any other role value. 
+
+    Error: Unmappable byte sequence: 81.
+
+    At line 43, column 34
+
+    Error: Unmappable byte sequence: 8f.
+
+    At line 43, column 36
+
+    Error: Unmappable byte sequence: 81.
+
+    At line 44, column 40
+
+    Error: Unmappable byte sequence: 9d.
+
+    At line 45, column 38
+
+    Error: Unmappable byte sequence: 81.
+
+    At line 45, column 45
+
+    Error: Unmappable byte sequence: 81.
+
+    At line 45, column 65
+
+    Error: Unmappable byte sequence: 8f.
+
+    At line 45, column 67
+
+    Error: Unmappable byte sequence: 81.
+
+    At line 50, column 32
+
+    Error: Unmappable byte sequence: 8f.
+
+    At line 50, column 34
+
+    Error: Unmappable byte sequence: 81.
+
+    At line 55, column 32
+
+    Error: Unmappable byte sequence: 8f.
+
+    At line 55, column 34
+
+    Error: Unmappable byte sequence: 9d.
+
+    At line 56, column 38
+
+    Error: Unmappable byte sequence: 81.
+
+    At line 56, column 51
+
+    Error: Unmappable byte sequence: 81.
+
+    At line 61, column 34
+
+    Error: Unmappable byte sequence: 8f.
+
+    At line 61, column 36
+
+    Error: Unmappable byte sequence: 81.
+
+    At line 66, column 32
+
+    Error: Unmappable byte sequence: 8f.
+
+    At line 66, column 34
+
+    Error: Unmappable byte sequence: 81.
+
+    At line 73, column 45
+
+    Error: Unmappable byte sequence: 8f.
+
+    At line 73, column 47
+
+    Error: Unmappable byte sequence: 81.
+
+    At line 78, column 63
+
+    Error: Unmappable byte sequence: 8f.
+
+    At line 79, column 51
+
+    Error: Unmappable byte sequence: 8f.
+
+    At line 80, column 63
+
+    Warning: Section lacks heading. Consider using h2-h6 elements to add identifying headings to all sections.
+
+    From line 30, column 13; to line 30, column 21
+
+              <section>?     
+–ешение:
+Ќе знаю как исправить
